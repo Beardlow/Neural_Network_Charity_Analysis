@@ -26,6 +26,7 @@ This model acheived an accuracy of 72.5% over 60 epochs. Additional runs did not
 
 ### Attempts at Optimization
 Several attempts were made at increasing the model's accuracy; however, the results were more or less the same as the initial model. See below:
+
 ![Optimization Attempts](https://github.com/Beardlow/Neural_Network_Charity_Analysis/blob/main/Optimization_Attempts.png)
 
 Aditional hidden layers with different activation fuctions and/or number of units did not make much of a difference in performance. Additional epochs also did not improve predictive performance. Additional time may need to be spent reducing the number of input variables for this model or collecting data to better train the model.
