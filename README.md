@@ -9,14 +9,14 @@ The column "Is Successful" is the taget column. The model uses other columns to 
 ### Execution
 A Neural Network cosisting of 3 layers was initially used. The layer breakdown is as follows.
 * Input Layer
-*   80 units
-*   sigmoid
+  *   80 units
+  *   sigmoid
 
 * Second Layer
-*   20 units
-*   relu
+  *   20 units
+  *   relu
 
 * Output Layer
-*   1 unit
-*   linear
+  *   1 unit
+  *   linear
 
